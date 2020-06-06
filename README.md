@@ -4,3 +4,5 @@ Layer 1: 7 Neurons
 Layer 2: 1 Neuron
 
 neuralx.py allows you set up certain hyperparameters to form your Neural Network
+
+cnn1.0.py is a cnn with adjustable hyperparameters for a single colour, i.e., convolution exists only for one layer
